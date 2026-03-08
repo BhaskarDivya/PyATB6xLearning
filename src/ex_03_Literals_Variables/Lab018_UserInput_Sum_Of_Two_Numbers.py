@@ -1,0 +1,11 @@
+
+number1 = input("Enter a number: ")
+number2 = input("Enter another number: ")
+sum = float(number1) + float(number2)
+mul = float(number1) * float(number2)
+div = float(number1) / float(number2)
+#mul = int(number1) * int(number2)
+div = int(number1) / int(number2)
+print(sum)
+print(mul)
+print(div)
